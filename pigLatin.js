@@ -2,4 +2,4 @@ function translatePigLatin(str) {
   return str;
 }
 
-translatePigLatin("consonant");
+translatePigLatin("consonant");  
